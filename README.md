@@ -1,2 +1,2 @@
 # partimer
-Tugas mata kuliah Pemograman internet
+Repository Website partime
